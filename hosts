@@ -11,31 +11,34 @@
 #
 # ===============================================================
 # START - BLOCKING NVIDIA TELEMETRY
-0.0.0.0 gfswl.geforce.com
-0.0.0.0 telemetry.nvidia.com
-0.0.0.0 gfe.nvidia.com
-0.0.0.0 telemetry-dce.gfe.nvidia.com
-0.0.0.0 events-dc1.gfe.nvidia.com
-0.0.0.0 activation.gfe.nvidia.com
-0.0.0.0 activation-dc1.gfe.nvidia.com
 
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 events.gfe.nvidia.com
-0.0.0.0 telemetry-dc1.gfe.nvidia.com
-0.0.0.0 telemetry.gfe
+gfswl.geforce.com
+telemetry.nvidia.com
+gfe.nvidia.com
+telemetry-dce.gfe.nvidia.com
+events-dc1.gfe.nvidia.com
+activation.gfe.nvidia.com
+activation-dc1.gfe.nvidia.com
 
-0.0.0.0 ns5.dnsmadeeasy.com
-0.0.0.0 ns6.dnsmadeeasy.com
-0.0.0.0 ns7.dnsmadeeasy.com
-0.0.0.0 dns1.p07.nsone.net
-0.0.0.0 dns2.p07.nsone.net
-0.0.0.0 dns3.p07.nsone.net
-0.0.0.0 dns4.p07.nsone.net
-0.0.0.0 dns1.p09.nsone.net
-0.0.0.0 dns2.p09.nsone.net
-0.0.0.0 hqemgate07.nvidia.com
-0.0.0.0 hqemgate08.nvidia.com
-0.0.0.0 hqemgate09.nvidia.com
-0.0.0.0 hqemgate10.nvidia.com
-0.0.0.0 nvidiahk.nvidia.com
+telemetry.gfe.nvidia.com
+events.gfe.nvidia.com
+telemetry-dc1.gfe.nvidia.com
+telemetry.gfe
+
+# ns5.dnsmadeeasy.com
+# ns6.dnsmadeeasy.com
+# ns7.dnsmadeeasy.com
+# dns1.p07.nsone.net
+# dns2.p07.nsone.net
+# dns3.p07.nsone.net
+# dns4.p07.nsone.net
+# dns1.p09.nsone.net
+# dns2.p09.nsone.net
+
+hqemgate07.nvidia.com
+hqemgate08.nvidia.com
+hqemgate09.nvidia.com
+hqemgate10.nvidia.com
+nvidiahk.nvidia.com
+
 # END - BLOCKING NVIDIA TELEMETRY
